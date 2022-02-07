@@ -5,9 +5,10 @@
 </p>
 
 # Leandro Starke
-*Business Analyst* at Netzsch do Brasil
 
-**Links:**
+Here you can find projects notebooks about Data Science, Machine Learning and Deep Learning.
+
+## Links:
 * [LinkedIn](https://www.linkedin.com/in/leandrostarke/)
 * [Medium](https://www.medium.com)
 
@@ -18,4 +19,7 @@ See my Data Science projects:
 * **To-do**
 
 ---
+### About me:
+
+To-do
 
