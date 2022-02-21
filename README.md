@@ -16,10 +16,12 @@ Here you can find projects notebooks about Data Science, Machine Learning and De
 ## Projects:
 See my Data Science projects:
 
-* **To-do**
+* Airbnb Exploratory Data Analysis (Oslo, Norway): https://bit.ly/3s5mbt0
 
 ---
 ### About me:
 
-To-do
+* [LinkedIn](https://www.linkedin.com/in/leandrostarke/)
+* [Instagram](https://www.instagram.com/leandrostarke/)
+* [Medium](https://medium.com/@leandro.starke)
 
