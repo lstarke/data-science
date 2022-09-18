@@ -8,11 +8,6 @@
 
 Here you can find projects notebooks about Data Science, Machine Learning and Deep Learning.
 
-## Links:
-* [LinkedIn](https://www.linkedin.com/in/leandrostarke/)
-* [Medium](https://www.medium.com)
-
-
 ## Projects:
 See my Data Science projects:
 
