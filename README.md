@@ -13,6 +13,7 @@ See my Data Science projects:
 
 * Airbnb Exploratory Data Analysis (Oslo, Norway): https://bit.ly/3s5mbt0
 * Panorama COVID-19: https://bit.ly/3RxXNdD
+* Detecção de Fraude em Cartão de Crédito: https://bit.ly/3HCIXk1
 
 ---
 ### About me:
