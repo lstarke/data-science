@@ -15,6 +15,8 @@ See my Data Science projects:
 * Panorama COVID-19: https://bit.ly/3RxXNdD
 * Detecção de Fraude em Cartão de Crédito: https://bit.ly/3HCIXk1
 * Churn Prediction para uma empresa de Telecomunicações: https://bit.ly/3mqnbYn
+* Health Insurance Cost Prediction com Pycaret: https://bit.ly/44tdmdv
+* Fetal Health Classification com Pycaret: https://bit.ly/3LsSZV2
 
 ---
 ### About me:
