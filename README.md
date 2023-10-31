@@ -18,6 +18,7 @@ See my Data Science projects:
 * Health Insurance Cost Prediction com Pycaret: https://bit.ly/44tdmdv
 * Fetal Health Classification com Pycaret: https://bit.ly/3LsSZV2
 * Forecasting with Prophet: https://bit.ly/3RFYaWC
+* Wine Sales Forecasting with Prophet: https://bit.ly/3QEYOCT
 
 ---
 ### About me:
