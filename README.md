@@ -19,6 +19,7 @@ See my Data Science projects:
 * Fetal Health Classification com Pycaret: https://bit.ly/3LsSZV2
 * Forecasting with Prophet: https://bit.ly/3RFYaWC
 * Wine Sales Forecasting with Prophet: https://bit.ly/3QEYOCT
+* Credit Risk Modeling: http://bit.ly/3TXyGUd
 
 ---
 ### About me:
