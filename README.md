@@ -20,7 +20,7 @@ See my Data Science projects:
 * Forecasting with Prophet: https://bit.ly/3RFYaWC
 * Wine Sales Forecasting with Prophet: https://bit.ly/3QEYOCT
 * Credit Risk Modeling: http://bit.ly/3TXyGUd
-* Deploy de um modelo de Machine Learnin: https://bit.ly/3RMgRXY
+* Deploy de um modelo de Machine Learning: https://bit.ly/3RMgRXY
 
 ---
 ### About me:
