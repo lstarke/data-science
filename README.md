@@ -21,6 +21,7 @@ See my Data Science projects:
 * Wine Sales Forecasting with Prophet: https://bit.ly/3QEYOCT
 * Credit Risk Modeling: http://bit.ly/3TXyGUd
 * Deploy de um modelo de Machine Learning: https://bit.ly/3RMgRXY
+* Fake news classification with Tensorflow: http://bit.ly/3RbnzpF
 
 ---
 ### About me:
